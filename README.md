@@ -23,9 +23,9 @@
 | <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic"> <img src="https://img.shields.io/badge/-styled%20components-FFCE0A.svg?logo=&style=plastic"> <img src="https://img.shields.io/badge/-Github%20pages-181717.svg?logo=github&style=plastic"> <br/> <img src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic"> |<img src="https://img.shields.io/badge/-Github%20pages-181717.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic"> <br/> <img src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic"> |
 | <a href="https://github.com/tatsuya1981/react-tic-tac-toe" target="_blank">リポジトリ</a>| <a href="https://github.com/tatsuya1981/ws-0100-codepen-copy" target="_blank">リポジトリ</a>|
 
-| <a href="https://hitotoki-album.onrender.com/" target="_blank">ひとときアルバム</a> | 
+| <a href="https://tatsuya1981.github.io/EC_site_shampoo/" target="_blank">仮想ECサイトの作成</a> | 
 | :--: | 
-| <img src="./images/1.jpg" width="500px" /> |
-| お子さんの「はじめて」を写真に残す記録サービス<br/>Ruby on Railsの練習として作成しました。<br/>開発期間：5日 |
-| <img src="https://img.shields.io/badge/-PostgreSQL-fff.svg?logo=postgresql&style=flat" /><br /><img src="https://img.shields.io/badge/-Ruby3.2-CC342D.svg?logo=ruby&style=flat"> <img src="https://img.shields.io/badge/-Rails7.1-D30001.svg?logo=rubyonrails&style=flat"> <img src="https://img.shields.io/badge/-JavaScript-yellow.svg?logo=javascript&style=flat" /> | 
-| <a href="https://github.com/topi0247/mini-app-week" target="_blank">リポジトリ</a> | 
+| <img src="./img/shampooEC.png" width="500px" /> |
+| シャンプーのECサイトを仮想したwebページ<br/>sassやページ遷移の練習として作成しました。<br/>|
+| <img src="https://img.shields.io/badge/-Github%20pages-181717.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic"> <br/> <img src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">| 
+| <a href="https://github.com/tatsuya1981/EC_site_shampoo" target="_blank">リポジトリ</a> | 
