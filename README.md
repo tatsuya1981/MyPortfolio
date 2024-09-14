@@ -1,6 +1,6 @@
 # 作成したアプリまとめ
 
-2024 年 2 月 ～ 2024 年 ９ 月に作成したアプリのまとめです。
+2024 年 2 月 ～ 2024 年 9 月に作成したアプリのまとめです。
 
 | Petit-Marche（作成中） | <a href="https://github.com/tatsuya1981/Petit-Marche" target="_blank" >リポジトリ</a> |
 | :-- | :-- |
