@@ -26,6 +26,6 @@
 | <a href="https://tatsuya1981.github.io/EC_site_shampoo/" target="_blank">仮想ECサイトの作成</a> | 
 | :--: | 
 | <img src="./img/shampooEC.png" width="500px" /> |
-| シャンプーのECサイトを仮想したwebページ<br/>sassやページ遷移の練習として作成しました。<br/>|
+| シャンプーのECサイトを仮想したwebページ<br/>sassやページ遷移の練習として初めて作成したページです。<br/>|
 | <img src="https://img.shields.io/badge/-Github%20pages-181717.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic"> <br/> <img src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">| 
 | <a href="https://github.com/tatsuya1981/EC_site_shampoo" target="_blank">リポジトリ</a> | 
