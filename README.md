@@ -2,7 +2,7 @@
 
 2024 年 2 月 ～ 2024 年 10 月に作成したアプリのまとめです。
 
-| Petit-Marche（作成中） | <a href="https://github.com/tatsuya1981/Petit-Marche" target="_blank" >リポジトリ</a> |
+| Petit-Marche（完成へ向けて毎日リポジトリ更新中！） | <a href="https://github.com/tatsuya1981/Petit-Marche" target="_blank" >リポジトリ</a> |
 | :-- | :-- |
 | <img src="./img/petitmarche.png" width="450px" /> | **【概要】** <br />コンビニエンスストアの商品を思い思いにレビューし、<br/>各レビューを参考にできるサービスです。<br/>コンビニブランドや商品カテゴリー別・星評価など<br/>レビューしたい商品に対して細かく設定できます。<br/> |
 | <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=plastic"> <img src="https://img.shields.io/badge/-Next.js%2014-000000.svg?logo=next.js&style=plastic"> <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic"> <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic"> <br/> <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic"> <img src="https://img.shields.io/badge/-Express-063A54.svg?logo=Express&style=plastic"> <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic"> <img src="https://img.shields.io/badge/-Prisma-484A7A.svg?logo=prisma&style=plastic"> <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=plastic"> <img src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&style=plastic"> <br/> | **【今後の展望】** <br /><ul><li>商品のレビュー数や獲得いいね数のデータをグラフ化</li><li>新規開店・閉店情報</li><li>レビューや閲覧履歴などからおススメを表示する機能</li><li>コンビニ経営者向けのページ作成</li></ul>など |
